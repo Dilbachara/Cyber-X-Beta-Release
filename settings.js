@@ -37,15 +37,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['7059102517'] //ur owner number
-global.ownername = "ᴋɪɴɢ sagarsagar" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.ownername = "ᴋɪɴɢ sagar" //ur owner name
+global.ytname = "YT:sagar ss" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['7059102517']
  //ur tag 7059102517umber
-global.botnumber = '94764679736' //Add your Bot Number For Log
+global.botnumber = '7439623713' //Add your Bot Number For Log
 global.botname = ' //kING SAGAR 
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
